@@ -14,3 +14,4 @@ To verify that you are a WWDCScholar or WWDCStudents, please answer this [form](
 | [App Name](App Link)| Developer's Name | Category | iPhone | iPad | &#63743; Watch | &#63743; TV | Mac App |
 | ------------------- | ---------------- | -------- | ------ | ---- | -------------- | ----------- | ------- |
 | [Scholars of WWDC](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8)| WWDCScholars | Education | YES | YES | YES | YES | N/A | N/A 
+| [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)| Sam Eckert | Utilities & Productivity | YES | YES | YES | N/A | N/A | N/A 
