@@ -22,3 +22,4 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 | [Mouse Times - Florida](https://itunes.apple.com/us/app/mouse-times-florida/id1021402097?mt=8)| Andrew Walker | Travel | YES | NO | YES | N/A | N/A | N/A 
 | Sunscreen | Oliver Binns | Travel/Health | YES | NO | YES | N/A | N/A | N/A 
 | [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)| Eli Yazdi | Games/Music | YES | NO | NO | N/A | N/A | N/A 
+| [iRedstone](http://appstore.com/iredstone)| Frederik Riedel | Education | YES | YES | NO | YES | YES 
