@@ -14,11 +14,12 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 
 | [App Name](App Link)| Developer's Name | Category | iPhone | iPad | &#63743; Watch | &#63743; TV | Mac App |
 | ------------------- | ---------------- | -------- | ------ | ---- | -------------- | ----------- | ------- |
-| [Scholars of WWDC](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8)| WWDCScholars | Education | YES | YES | YES | YES | N/A | N/A 
-| [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)| Sam Eckert | Utilities & Productivity | YES | YES | YES | N/A | N/A | N/A 
-| [Television Time - Keep track of your favorite shows](https://itunes.apple.com/us/app/television-time-keep-track/id969714962?ls=1&mt=8)| Maximilian Litteral | Entertainment | YES | YES | YES | No | No | N/A 
-| [AffordIt](https://itunes.apple.com/us/app/affordit-budget-tracker/id915828557?mt=8)| Andrew Walker | Finance | YES | NO | YES | N/A | N/A | N/A 
-| [Mouse Times - California](https://itunes.apple.com/us/app/mouse-times-california/id1037614431?mt=8)| Andrew Walker | Travel | YES | NO | YES | N/A | N/A | N/A 
-| [Mouse Times - Florida](https://itunes.apple.com/us/app/mouse-times-florida/id1021402097?mt=8)| Andrew Walker | Travel | YES | NO | YES | N/A | N/A | N/A 
-| Sunscreen | Oliver Binns | Travel/Health | YES | NO | YES | N/A | N/A | N/A 
-| [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)| Eli Yazdi | Games/Music | YES | NO | NO | N/A | N/A | N/A 
+| [Scholars of WWDC](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8)| WWDCScholars | Education | YES | YES | YES | YES | N/A
+| [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)| Sam Eckert | Utilities & Productivity | YES | YES | YES | N/A | N/A
+| [Television Time - Keep track of your favorite shows](https://itunes.apple.com/us/app/television-time-keep-track/id969714962?ls=1&mt=8)| Maximilian Litteral | Entertainment | YES | YES | YES | No | No 
+| [AffordIt](https://itunes.apple.com/us/app/affordit-budget-tracker/id915828557?mt=8)| Andrew Walker | Finance | YES | NO | YES | N/A | N/A 
+| [Mouse Times - California](https://itunes.apple.com/us/app/mouse-times-california/id1037614431?mt=8)| Andrew Walker | Travel | YES | NO | YES | N/A | N/A 
+| [Mouse Times - Florida](https://itunes.apple.com/us/app/mouse-times-florida/id1021402097?mt=8)| Andrew Walker | Travel | YES | NO | YES | N/A | N/A 
+| Sunscreen | Oliver Binns | Travel/Health | YES | NO | YES | N/A | N/A
+| [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)| Eli Yazdi | Games/Music | YES | NO | NO | N/A | N/A
+| [iRedstone](http://appstore.com/iredstone)| Frederik Riedel | Education | YES | YES | NO | YES | YES 
