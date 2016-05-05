@@ -14,6 +14,7 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 
 | [App Name](App Link)| Developer's Name | Category | iPhone | iPad | &#63743; Watch | &#63743; TV | Mac App |
 | ------------------- | ---------------- | -------- | ------ | ---- | -------------- | ----------- | ------- |
+| [Hurtle](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)| AMAN JAIN | Games | YES | YES | No | N/A | N/A
 | [Scholars of WWDC](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8)| WWDCScholars | Education | YES | YES | YES | YES | N/A
 | [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)| Sam Eckert | Utilities & Productivity | YES | YES | YES | N/A | N/A
 | [Television Time - Keep track of your favorite shows](https://itunes.apple.com/us/app/television-time-keep-track/id969714962?ls=1&mt=8)| Maximilian Litteral | Entertainment | YES | YES | YES | No | No 
