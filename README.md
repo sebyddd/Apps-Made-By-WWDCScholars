@@ -23,3 +23,4 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 | Sunscreen | Oliver Binns | Travel/Health | YES | NO | YES | N/A | N/A
 | [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)| Eli Yazdi | Games/Music | YES | NO | NO | N/A | N/A
 | [iRedstone](http://appstore.com/iredstone)| Frederik Riedel | Education | YES | YES | NO | YES | YES 
+| [Drops - Your IV Drip Rate Companion](https://itunes.apple.com/gb/app/drops-your-iv-drip-rate-companion/id991594421?mt=8) | Michie Ang | Medical | YES | NO | NO | NO | NO
