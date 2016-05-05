@@ -24,4 +24,4 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 | [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)| Eli Yazdi | Games/Music | YES | NO | NO | N/A | N/A
 | [iRedstone](http://appstore.com/iredstone)| Frederik Riedel | Education | YES | YES | NO | YES | YES 
 | [Drops - Your IV Drip Rate Companion](https://itunes.apple.com/gb/app/drops-your-iv-drip-rate-companion/id991594421?mt=8) | Michie Ang | Medical | YES | NO | NO | NO | NO
-| [Vita - Train your Brain with Math Facts Game (Addition, Division, Multiplication and Subtraction)](https://itunes.apple.com/us/app/vita-personal-math-tutor/id1100815472?l=it&ls=1&mt=8)| Cesare de Cal | Games - Education | YES | YES | NO | NO | NO |
+| [Vita - Train your Brain with Math Facts Game (Addition, Division, Multiplication and Subtraction)](https://itunes.apple.com/us/app/vita-personal-math-tutor/id1100815472)| Cesare de Cal | Games - Education | YES | YES | NO | NO | NO |
