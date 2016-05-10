@@ -14,7 +14,7 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 
 | [App Name](App Link)| Developer's Name | Category | iPhone | iPad | &#63743; Watch | &#63743; TV | Mac App |
 | ------------------- | ---------------- | -------- | ------ | ---- | -------------- | ----------- | ------- |
-| [Hurtle](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)| AMAN JAIN | Games | YES | YES | No | N/A | N/A
+| [Hurtle](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)| AMAN JAIN | Games | YES | YES | NO | N/A | N/A
 | [Scholars of WWDC](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8)| WWDCScholars | Education | YES | YES | YES | YES | N/A
 | [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)| Sam Eckert | Utilities & Productivity | YES | YES | YES | N/A | N/A
 | [Television Time - Keep track of your favorite shows](https://itunes.apple.com/us/app/television-time-keep-track/id969714962?ls=1&mt=8)| Maximilian Litteral | Entertainment | YES | YES | YES | No | No 
@@ -26,3 +26,4 @@ If you are a previous WWDCScholar or WWDCStudents and wants to help us build the
 | [iRedstone](http://appstore.com/iredstone)| Frederik Riedel | Education | YES | YES | NO | YES | YES 
 | [Drops - Your IV Drip Rate Companion](https://itunes.apple.com/gb/app/drops-your-iv-drip-rate-companion/id991594421?mt=8) | Michie Ang | Medical | YES | NO | NO | NO | NO
 | [Vita - Train your Brain with Math Facts Game (Addition, Division, Multiplication and Subtraction)](https://itunes.apple.com/us/app/vita-personal-math-tutor/id1100815472)| Cesare de Cal | Games - Education | YES | YES | NO | NO | NO |
+| [Voya – Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606?mt=8)| Sebastian Dobrincu | Travel | YES | YES | NO | NO | NO
